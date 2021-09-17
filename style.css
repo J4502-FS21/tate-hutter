@@ -7,7 +7,10 @@ body {
   margin-top: 3rem;
 }
 
-img {width:100%;}
+img {width:100%;
+    margin: auto;
+    display: block;
+  }
 
 h1 {
   font-size: 2rem;
