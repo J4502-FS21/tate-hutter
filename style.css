@@ -1,3 +1,13 @@
 body {
   background: #D2B954;
-  text-align: center;}
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #20E5F2;
+}
