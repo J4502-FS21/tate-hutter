@@ -11,8 +11,11 @@ nav {
 
 ul {
   list-style-type: none;
-  margin: 5px;
-  padding: 0;
+}
+
+li {
+  margin: 0px;
+  padding: 5px;  
 }
 
 a {
