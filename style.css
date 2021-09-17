@@ -12,3 +12,7 @@ a {
   color: #13C6D2;
   font-style: italic;
 }
+
+a:hover {
+  color: 104781;
+}
